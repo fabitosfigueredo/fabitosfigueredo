@@ -2,11 +2,9 @@
 - 👀 I’m interested in ...
 
 
-- 🌱  Estou aprendendo
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  
-- 📫 How to reach me ...
+Profissional com experiência em logística, precificação e análise de dados, atuando há anos no setor de saúde e diagnóstico por imagem.
+Trabalho com Python, automação, análise de dados, scripts para processamento de grandes volumes de informação e soluções práticas para problemas reais.
+Interesse em engenharia de dados, sistemas, otimização de processos e tecnologia aplicada à tomada de decisão.
 
 <div>
 <a href="https://www.instagram.com/ifabiofigueredo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
