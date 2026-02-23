@@ -1,8 +1,8 @@
-## 👋 Hi, I’m @fabitosfigueredo
+## 👋 Olá, eu sou @fabitosfigueredo
 
-- 👀 Interested in data, automation and solving real-world problems with code  
-- 🧠 Background in logistics, pricing and healthcare operations  
-- 🐍 Python enthusiast
+- 👀 Interessado em dados, automação e em resolver problemas do mundo real com código
+- 🧠 Experiência em logística, precificação e operações na área da saúde
+- 🐍 Entusiasta de Python
 
 Profissional com experiência em **logística, precificação e análise de dados**, atuando há anos no setor de **saúde e diagnóstico por imagem**.  
 Trabalho com **Python** para **automação de processos, análise e tratamento de dados, integração com APIs e processamento de grandes volumes de informação**.
