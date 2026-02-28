@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou @fabitosfigueredo
 
 - 👀 Interessado em dados, automação e em resolver problemas do mundo real com código
-- 🧠 Experiência em logística, precificação e operações na área da saúde
 - 🐍 Entusiasta de Python
 
 Profissional com experiência em **logística, precificação e análise de dados**, atuando há anos no setor de **saúde e diagnóstico por imagem**.  
